@@ -1,9 +1,9 @@
-.resources__link_logo {
+.resources__logo {
   width: 270px;
   height: 38px;
 }
 
-.resources__link_logo:hover {
+.resources__logo:hover {
   opacity: 0.5;
   transition-duration: 0.7s;
 }
